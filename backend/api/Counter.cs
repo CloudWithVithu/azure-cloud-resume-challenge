@@ -9,7 +9,5 @@ namespace Company.Function
 
         [JsonProperty(propertyName: "count")]
         public int Count { get; set; }
-
-        
     }
 }
